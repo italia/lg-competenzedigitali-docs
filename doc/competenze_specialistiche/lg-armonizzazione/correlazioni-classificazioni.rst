@@ -150,3 +150,6 @@ Rispetto a questa ripartizione, esistono tempistiche di aggiornamento ed evoluzi
 
 •	I profili referenziati da AgID, basandosi su norme tecniche (nazionali e internazionali), possono subire aggiornamenti periodici. Tali aggiornamenti dipendono pertanto dalle attività delle specifiche commissioni dell’ente di normazione (per l’Italia UNINFO), che possono portare alla revisione di profili (modifica profili attuali e/o integrazione di ulteriori profili) in periodi comunque non inferiori all’anno solare. AgID prevede di aggiornare comunque le linee guida su base annuale, integrando le linee guida dell’anno precedente con eventuali novità normative.
 
+
+.. discourse::
+   :topic_identifier: 3573

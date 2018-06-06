@@ -13,3 +13,6 @@ A seguito di tale comparazione, dopo adeguata sperimentazione in ulteriori regio
 
 5)	Avvio di un processo sperimentale che preveda la certificazione delle qualificazioni considerate da parte delle regioni attraverso gli enti certificatori accreditati secondo Dlgs. 13/2013.
 
+  
+.. discourse::
+   :topic_identifier: 3575

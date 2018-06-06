@@ -144,3 +144,6 @@ L’insieme delle descrizioni delle caratteristiche delle UP (relative al lavoro
 a) l'importanza dell'aspetto considerato (item) nello svolgimento della professione; 
 
 b) il livello di complessità per il quale lo stesso item è necessario. 
+
+.. discourse::
+   :topic_identifier: 3571
