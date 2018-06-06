@@ -7,8 +7,8 @@ settings_copyright_copyleft = "Agenzia per l'Italia Digitale"
 settings_editor_name = "Agenzia per l'Italia Digitale"
 settings_doc_version = 'Bozza in consultazione'
 settings_doc_release = 'Bozza in consultazione'
-settings_basename =  'competenzedigitali'
-settings_file_name = 'competenzedigitali'
+settings_basename =  'lg-competenzedigitali'
+settings_file_name = 'lg-competenzedigitali'
 settings_discourse_url = 'https://forum.italia.it/'
 
 # -- No need to change below here
