@@ -6,7 +6,7 @@ Introduzione per la consultazione pubblica
 
 - **Documento in consultazione:** Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT
 
-- **Durata della consultazione:** dal 07 giugno 2018 al 07 luglio 2018
+- **Durata della consultazione:** dal 7 giugno 2018 al 6 luglio 2018
 
 
 - **Settore:** ICT
@@ -26,4 +26,4 @@ Arricchire il perimetro di indicazioni, suggerimenti e proposte atte al migliora
 
 **Come partecipare**
 
-Le Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <http://forum.italia.it/>`_ fino al 07 luglio 2018.
+Le Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <http://forum.italia.it/>`_ fino al 6 luglio 2018.
