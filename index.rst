@@ -11,7 +11,7 @@ Dal 2017 AgID si occupa inoltre di supportare la definizione delle competenze di
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
    
-   Nel documento è attiva `qui <http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_specialistiche/lg-armonizzazione/lineeguida-armonizzazione.html#linee-guida-per-l-armonizzazione-delle-qualificazioni-professionali-delle-professioni-e-dei-profili-in-ambito-ict>`_ la consultazione pubblica relativa alle **Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT** dal **7** **giugno** al **6** **luglio** **2018**.
+   Nel documento è attiva la consultazione pubblica relativa alle linee guida delle competenze digitali di `e-leadership <http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_e-leadership/index.html>`_ e `specialistiche. <http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_specialistiche/index.html>`_
    
 .. toctree::
    :maxdepth: 3
