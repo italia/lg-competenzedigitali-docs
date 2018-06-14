@@ -5,7 +5,7 @@ Linee guida per la qualità delle competenze digitali nelle professionalità ICT
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
    
-   La consultazione pubblica relativa alle **Linee guida per la qualità delle competenze digitali nelle professionalità ICT** è attiva        dal **7** **giugno** al **6** **luglio** **2018**.
+   La consultazione pubblica relativa alle **Linee guida per la qualità delle competenze digitali nelle professionalità ICT** è attiva        dal **15** **giugno** al **16** **luglio** **2018**.
 
 
 
