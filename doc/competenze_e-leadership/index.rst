@@ -16,6 +16,7 @@ L’e-leader è in grado di sfruttare le tecnologie digitali per definire e conc
    :maxdepth: 4
    :numbered:
    
+   intro-consultazione.rst 
    premessa.rst
    mappatura-valorizzazione.rst
    linee-intervento-tema.rst
