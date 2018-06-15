@@ -69,3 +69,6 @@ PA Pubblica Amministrazione
 SNA Scuola Nazionale dell'Amministrazione
 
 UNI Ente Nazionale di Normazione
+
+.. discourse::
+   :topic_identifier: 3684
