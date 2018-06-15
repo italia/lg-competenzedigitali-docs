@@ -1,6 +1,6 @@
-=======================
-**Competenze Digitali**
-=======================
+===================
+Competenze Digitali
+===================
 
 Introduzione al documento
 ++++++++++++++++++++++++++
@@ -11,11 +11,10 @@ Dal 2017 AgID si occupa inoltre di supportare la definizione delle competenze di
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
    
-   Nel documento è attiva la consultazione pubblica relativa alle linee guida delle competenze digitali di `e-leadership <http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_e-leadership/index.html>`_ e `specialistiche. <http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_specialistiche/index.html>`_
+   Nel documento è attiva la consultazione pubblica relativa alle linee guida delle competenze digitali `specialistiche <http://lg-competenzedigitali.readthedocs.io/it/latest/doc/competenze_specialistiche/index.html>`_.
    
 .. toctree::
    :maxdepth: 3
 
    doc/competenze_di_base/index.rst
-   doc/competenze_e-leadership/index.rst
    doc/competenze_specialistiche/index.rst
