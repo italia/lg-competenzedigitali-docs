@@ -18,3 +18,4 @@ Dal 2017 AgID si occupa inoltre di supportare la definizione delle competenze di
 
    doc/competenze_di_base/index.rst
    doc/competenze_specialistiche/index.rst
+   competenze_e-leadership.rst 
