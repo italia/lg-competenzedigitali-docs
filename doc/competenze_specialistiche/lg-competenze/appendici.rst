@@ -596,3 +596,7 @@ terze parti.
 .. |image1| image:: media/image2.png
    :width: 6.6875in
    :height: 4.8125in
+
+
+.. discourse::
+   :topic_identifier: 3695

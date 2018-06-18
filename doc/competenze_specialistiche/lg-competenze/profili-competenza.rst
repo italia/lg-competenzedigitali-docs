@@ -1412,3 +1412,7 @@ capitolo 2.
 
 AgID si impegna comunque a mantenere aggiornato e allineato il presente
 documento alle norme tecniche vigenti.
+
+
+.. discourse::
+   :topic_identifier: 3693
