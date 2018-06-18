@@ -14,6 +14,7 @@ Linee guida per la qualità delle competenze digitali nelle professionalità ICT
    
    intro-consultazione.rst 
    generalità-documento.rst
+   obiettivi.rst
    rif-legislativi.rst
    metodologia-lavoro.rst
    profili-competenza.rst
