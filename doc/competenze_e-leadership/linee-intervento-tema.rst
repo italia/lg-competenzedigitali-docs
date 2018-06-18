@@ -210,3 +210,7 @@ attività interne) non rappresenta un mero adempimento normativo sofferto
 e inutile, un collo di bottiglia, ma un'occasione di sviluppo per la
 collettività, un'opportunità per l'impresa e un vantaggio per la
 cittadinanza ed il mondo dell'impresa.
+
+  
+.. discourse::
+   :topic_identifier: 3686

@@ -311,7 +311,7 @@ organizzazioni nel settore pubblico e privato.
 | nella PA                          |                                   |
 +===================================+===================================+
 | **Tutelare la cittadinanza        | -  A7. Monitoraggio dei Trend     |
-| digitale **                       |    tecnologici                    |
+| digitale**                        |    tecnologici                    |
 |                                   |                                   |
 | Assicurare il rispetto dei        | -  A9. Innovazione                |
 | principi di cittadinanza digitale |                                   |
@@ -325,7 +325,7 @@ organizzazioni nel settore pubblico e privato.
 | all’informazione).                | -  E5. Miglioramento del Processo |
 +-----------------------------------+-----------------------------------+
 | **Realizzare progetti di          | -  A.2. Gestione dei Livelli di   |
-| e-government **                   |    Servizio                       |
+| e-government**                    |    Servizio                       |
 |                                   |                                   |
 | Attivare all’interno della        | -  A.6. Progettazione di          |
 | propria organizzazione progetti   |    Applicazioni                   |
@@ -349,7 +349,7 @@ organizzazioni nel settore pubblico e privato.
 |                                   |    Informativi                    |
 +-----------------------------------+-----------------------------------+
 | **Attivare processi di            | -  A9. Innovazione                |
-| OpenGovernment **                 |                                   |
+| OpenGovernment**                  |                                   |
 |                                   | -  D12: Marketing Digitale        |
 | Praticare la trasparenza (accesso |                                   |
 | alle informazioni e dati aperti), |                                   |
@@ -361,3 +361,7 @@ organizzazioni nel settore pubblico e privato.
 | cittadini e per l’efficacia dei   |                                   |
 | processi di innovazione interna.  |                                   |
 +-----------------------------------+-----------------------------------+
+ 
+
+.. discourse::
+   :topic_identifier: 3685
