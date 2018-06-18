@@ -4,7 +4,7 @@ Introduzione per la consultazione pubblica
 
 **Informazioni sulla consultazione**
 
-- **Documento in consultazione:** Competenze di e-leadership
+- **Documento in consultazione:** Linee guida per le Competenze di e-leadership
 
 - **Durata della consultazione:** dal 18 giugno 2018 al 19 luglio 2018
 
@@ -26,4 +26,4 @@ Arricchire il perimetro di indicazioni, suggerimenti e proposte atte al migliora
 
 **Come partecipare**
 
-Le **Competenze di e-leadership** sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <http://forum.italia.it/>`_ fino al 19 luglio 2018.
+Le **Linee guida per le Competenze di e-leadership** sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <http://forum.italia.it/>`_ fino al 19 luglio 2018.
