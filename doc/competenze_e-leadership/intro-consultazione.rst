@@ -6,7 +6,7 @@ Introduzione per la consultazione pubblica
 
 - **Documento in consultazione:** Competenze di e-leadership
 
-- **Durata della consultazione:** dal 15 giugno 2018 al 16 luglio 2018
+- **Durata della consultazione:** dal 18 giugno 2018 al 19 luglio 2018
 
 
 - **Settore:** e-leadership
@@ -26,4 +26,4 @@ Arricchire il perimetro di indicazioni, suggerimenti e proposte atte al migliora
 
 **Come partecipare**
 
-Le Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <http://forum.italia.it/>`_ fino al 16 luglio 2018.
+Le **Competenze di e-leadership** sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <http://forum.italia.it/>`_ fino al 19 luglio 2018.

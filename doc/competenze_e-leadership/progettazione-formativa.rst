@@ -289,3 +289,18 @@ possibile anche immaginare, nell’ottica di un ri-uso ottimizzato, dei
 meccanismi incentivanti da un punto di vista finanziario per chi mette a
 disposizione quanto già progettato e testato, ovviamente previa
 selezione.
+
+.. [1]
+   `http://www.agid.gov.it/agenda-digitale/competenze-digitali/competenze-specialistiche <http://www.agid.gov.it/agenda-digitale/competenze-digitali/competenze-specialistiche>`__
+
+.. [2]
+   `http://www.agid.gov.it/agenda-digitale/competenze-digitali/competenze-base <http://www.agid.gov.it/agenda-digitale/competenze-digitali/competenze-base>`__
+
+.. [3]
+   “Linee guida per la qualità delle competenze digitali nelle
+   professionalità ICT” disponibili nel sito:
+   http://www.agid.gov.it/agenzia/valutazione-e-monitoraggio/manuali-ict
+
+  
+.. discourse::
+   :topic_identifier: 3687

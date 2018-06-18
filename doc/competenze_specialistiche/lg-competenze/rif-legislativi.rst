@@ -217,3 +217,8 @@ Norme tecniche di riferimento
    GeoData Analyst, Geographic Information Manager, Geographic
    Information Officer, Geographic Information Technician / Specialist
    eGeographic Knowledge Enabler.
+
+
+
+.. discourse::
+   :topic_identifier: 3691

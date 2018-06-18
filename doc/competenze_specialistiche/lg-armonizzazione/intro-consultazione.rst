@@ -15,6 +15,17 @@ Introduzione per la consultazione pubblica
 **Esiti della consultazione**
 
 I risultati della consultazione pubblica on line saranno presi in considerazione dall’Agenzia per l’Italia Digitale per l’aggiornamento delle Linee Guida e delle successive integrazioni.
+- **Durata della consultazione:** dal 7 giugno 2018 al 6 luglio 2018
+
+
+- **Settore:** ICT
+
+
+**Esiti della consultazione**
+
+I risultati della consultazione pubblica on line saranno presi in considerazione dall’Agenzia per l’Italia Digitale per l’aggiornamento delle Linee Guida e delle successive integrazioni.
+
+**Destinatari**
 
 **Destinatari**
 
@@ -26,4 +37,4 @@ Arricchire il perimetro di indicazioni, suggerimenti e proposte atte al migliora
 
 **Come partecipare**
 
-Le Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <http://forum.italia.it/>`_ fino al 6 luglio 2018.
+Le **Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT** sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <http://forum.italia.it/>`_ fino al 6 luglio 2018.

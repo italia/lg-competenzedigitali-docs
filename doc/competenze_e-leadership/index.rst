@@ -9,7 +9,7 @@ L’e-leader è in grado di sfruttare le tecnologie digitali per definire e conc
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
    
-   La consultazione pubblica relativa alle **Competenze di e-leadership** è attiva dal **15** **giugno** al **16** **luglio** **2018**.
+   La consultazione pubblica relativa alle **Competenze di e-leadership** è attiva dal **18** **giugno** al **19** **luglio** **2018**.
 
 
 .. toctree::
