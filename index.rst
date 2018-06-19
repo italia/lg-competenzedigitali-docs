@@ -1,5 +1,5 @@
 ===================
-Competenze Digitali
+Competenze digitali
 ===================
 
 Introduzione al documento
