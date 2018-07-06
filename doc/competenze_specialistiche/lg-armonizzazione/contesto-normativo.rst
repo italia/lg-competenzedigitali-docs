@@ -108,7 +108,7 @@ Il quinto livello contiene un ulteriore livello di esempi di professioni, che ha
 
 La Classificazione ufficiale delle professioni è collegata alla Isco 08 (International Standard Classification of Occupation), che rappresenta la classificazione di riferimento in Europa per la rappresentazione e lo scambio dei dati sulle professioni. In Italia, a seguito di un lungo lavoro di condivisione, la classificazione delle professioni è stata adottata:
 
-1) Dall' **Istat***, all'interno delle indagini:
+1) Dall'**Istat**, all'interno delle indagini:
 
 - Censimento della popolazione
 - Forze di lavoro
@@ -128,7 +128,7 @@ Si inserisce la qualifica professionale assegnata al lavoratore all’atto dell�
 
 5) Da **Unioncamere**, per indicare le previsioni di occupazione.
 
-6) Dall'**INAPP**, nell'indagine campionaria sulle professioni e nella rilevazione sui fabbisogni formativi .
+6) Dall'**INAPP**, nell'indagine campionaria sulle professioni e nella rilevazione sui fabbisogni formativi.
 
 7) Dal **MEF**, all’interno della sperimentazione per la rilevazione delle professioni nella P.A. (Circolare n.19 del 27 aprile 2017).
 
