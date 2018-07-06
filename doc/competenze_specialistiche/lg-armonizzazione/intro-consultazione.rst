@@ -15,17 +15,6 @@ Introduzione per la consultazione pubblica
 **Esiti della consultazione**
 
 I risultati della consultazione pubblica on line saranno presi in considerazione dall’Agenzia per l’Italia Digitale per l’aggiornamento delle Linee Guida e delle successive integrazioni.
-- **Durata della consultazione:** dal 7 giugno 2018 al 6 luglio 2018
-
-
-- **Settore:** ICT
-
-
-**Esiti della consultazione**
-
-I risultati della consultazione pubblica on line saranno presi in considerazione dall’Agenzia per l’Italia Digitale per l’aggiornamento delle Linee Guida e delle successive integrazioni.
-
-**Destinatari**
 
 **Destinatari**
 
