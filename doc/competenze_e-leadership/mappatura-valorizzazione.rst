@@ -145,7 +145,7 @@ seguenti:
 Capacità individuali di relazione e di comunicazione (“soft skill”)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Le **competenze individuali** (chiamate anche "soft skill”) comprendono
+Le **competenze individuali** (chiamate anche “soft skill”) comprendono
 un insieme di attitudini, atteggiamenti e capacità che hanno a che fare
 con il modo di concepire il mondo, le organizzazioni e le relazioni con
 gli altri.
@@ -195,7 +195,7 @@ la strada in un progetto da portare avanti giorno per giorno.
 
 Il vero leader è orientato al futuro. Ma per un e-leader l'orientamento
 al futuro è, se possibile, ancora più pressante, perché il suo obiettivo
-è un cambiamento che non riguarda solo l'esterno. E' un cambiamento,
+è un cambiamento che non riguarda solo l'esterno. È un cambiamento,
 basato sull'innovazione tecnologica, che coinvolge innanzitutto quelli
 che lo promuovono.
 

@@ -70,7 +70,7 @@ AgID, recependo quanto previsto dal piano "strategia per la crescita
 digitale 2014-2020" e per coordinarne l'attuazione con tutte le
 amministrazioni centrali e locali, nel mese di maggio 2017, a seguito
 della consultazione pubblica ospitata sul sito open.gov.it, ha
-provveduto ad sostituire il manuale operativo "Dizionario dei profili di
+provveduto a sostituire il manuale operativo "Dizionario dei profili di
 competenza per le professioni ICT" precedentemente pubblicato nel 2010
 dal CNIPA, promuovendo l'uso del modello e-CF 3.0 e dei profili ad esso
 correlati (profili di seconda e terza generazione). L’ultima versione di
@@ -236,7 +236,7 @@ digitali, ad una integrazione di diverse modalità:
    successivo punto.
 
 4. Apprendimento on the job, in cui le conoscenze e le competenze
-   acquisite vengono condivise secondo una logia per-to-peer e
+   acquisite vengono condivise secondo una logica peer-to-peer e
    valorizzate rispetto a specifici task. Dinamiche progettuali e
    operative di questo tipo possono essere opportunamente gestite
    attraverso un mix di attività online e attività in presenza e possono
@@ -275,7 +275,7 @@ rispetto a specifiche esigenze materiali o interi corsi modulari già
 realizzati e disponibili presso singole amministrazioni. Esistono già
 dei contributi teorici e delle esperienze che parlano di replicabilità e
 trasferibilità; è possibile anche creare dei protocolli con licenza
-Xreative Commons.
+Creative Commons.
 
 Allo stesso tempo, considerando la natura modulare dei percorsi e la
 loro rispondenza a parametri comuni (italiani e europei, attraverso e-CF
