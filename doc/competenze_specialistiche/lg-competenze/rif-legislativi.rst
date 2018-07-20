@@ -216,7 +216,7 @@ Norme tecniche di riferimento
    dedicati all’informazione geografica (5 profili professionali):
    GeoData Analyst, Geographic Information Manager, Geographic
    Information Officer, Geographic Information Technician / Specialist
-   eGeographic Knowledge Enabler.
+   e Geographic Knowledge Enabler.
 
 
 
