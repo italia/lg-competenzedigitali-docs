@@ -230,7 +230,3 @@ Acronimi e abbreviazioni
 **UNI** Ente Nazionale Italiano di Normazione
 
 **WBS** Work Breakdown Structure
-
-.. discourse::
-   :topic_identifier: 3690
-
