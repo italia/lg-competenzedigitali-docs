@@ -12,7 +12,6 @@ Linee guida per la qualità delle competenze digitali nelle professionalità ICT
 .. toctree::
    :maxdepth: 3
    
-   intro-consultazione.rst 
    generalità-documento.rst
    obiettivi.rst
    rif-legislativi.rst

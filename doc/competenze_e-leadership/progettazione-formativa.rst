@@ -300,7 +300,3 @@ selezione.
    “Linee guida per la qualità delle competenze digitali nelle
    professionalità ICT” disponibili nel sito:
    http://www.agid.gov.it/agenzia/valutazione-e-monitoraggio/manuali-ict
-
-  
-.. discourse::
-   :topic_identifier: 3687

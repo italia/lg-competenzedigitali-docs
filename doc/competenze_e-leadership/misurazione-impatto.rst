@@ -136,7 +136,3 @@ Possono essere utilizzati indicatori trasversali di progetto come:
 -  rispetto dei tempi pianificati;
 
 -  riusabilità dei risultati e dell’approccio.
-
-  
-.. discourse::
-   :topic_identifier: 3688

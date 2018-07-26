@@ -1,5 +1,5 @@
 
-Competenze Digitali di Base
+Competenze digitali di base
 ===========================
 
 Le competenze digitali di base sono le capacità di utilizzare con dimestichezza e 

@@ -24,7 +24,3 @@ nel settore, utili alla valorizzazione delle competenze digitali
 nell’ambito del settore professionale ICT, sia dei dipendenti della
 Pubblica Amministrazione che delle figure professionali impegnate nelle
 forniture di servizi alla Pubblica Amministrazione.
-
-
-.. discourse::
-   :topic_identifier: 3692

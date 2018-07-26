@@ -9,14 +9,13 @@ L’e-leader è in grado di sfruttare le tecnologie digitali per definire e conc
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
    
-   La consultazione pubblica relativa alle **Linee guida per le Competenze di e-leadership** è attiva dal **18** **giugno** al **19** **luglio** **2018**.
+   La consultazione pubblica relativa alle **Linee guida per le Competenze di e-leadership** si è conclusa in data **19 luglio 2018**.
 
 
 .. toctree::
    :maxdepth: 4
    :numbered:
    
-   intro-consultazione.rst 
    premessa.rst
    mappatura-valorizzazione.rst
    linee-intervento-tema.rst

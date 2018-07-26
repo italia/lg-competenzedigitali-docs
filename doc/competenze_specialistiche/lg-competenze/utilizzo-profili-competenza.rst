@@ -536,7 +536,3 @@ seconda generazione:
 Tale mappatura è da considerarsi a titolo esemplificativo, e non
 garantisce comunque un rapporto 1:1 tra i profili normati e le
 terminologie di terze parti.
-
-
-.. discourse::
-   :topic_identifier: 3694

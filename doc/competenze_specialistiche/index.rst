@@ -1,5 +1,5 @@
 =========================
-Competenze Specialistiche
+Competenze specialistiche
 =========================
 
 Le competenze digitali specialistiche riguardano professionisti e futuri professionisti ICT e sono richieste sia nel settore privato che nel settore pubblico.
@@ -10,11 +10,11 @@ adottare il modello e-CF come standard di definizione delle competenze digitali 
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
    
-   Sono attive le consultazioni:
-
-   - `Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT <https://testcompetenzedigitali.readthedocs.io/en/latest/doc/competenze_specialistiche/lg-armonizzazione/lineeguida-armonizzazione.html/>`_ dal **7 giugno** al **6 luglio 2018**;
+   All'interno della presente sezione: 
    
-   - `Linee guida per la qualità delle competenze digitali nelle professionalità ICT <https://testcompetenzedigitali.readthedocs.io/en/latest/doc/competenze_specialistiche/lg-competenze/lineeguida-competenze.html/>`_ dal **18 giugno** al **19 luglio 2018**.
+   - **Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT**: consultazione conclusa in data **6 luglio 2018**;
+   
+   - **Linee guida per la qualità delle competenze digitali nelle professionalità ICT**: consultazione conclusa in data **19 luglio 2018**.
 
 .. toctree::
    :maxdepth: 4

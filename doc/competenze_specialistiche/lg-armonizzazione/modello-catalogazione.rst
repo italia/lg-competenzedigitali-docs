@@ -89,7 +89,3 @@ Prospetto sinottico CP 2011 – ADA – AGID – Repertorio – Esemplificativo 
 .. image:: tab.png
   :scale: 50 %
   :alt: Prospetto sinottico
-
-  
-.. discourse::
-   :topic_identifier: 3574
