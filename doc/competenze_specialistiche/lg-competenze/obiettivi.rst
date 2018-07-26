@@ -165,7 +165,7 @@ Acronimi e abbreviazioni
 
 **D.Lgs.** Decreto Legislativo
 
-**DB Database**
+**DB** Database
 
 **DBMS** Database Management System
 

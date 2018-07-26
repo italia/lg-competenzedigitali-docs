@@ -156,7 +156,7 @@ insieme.**
    rilevanza.
 
 -  **Una competenza può essere una componente del ruolo, ma non può
-   essere usata come sostitutivo della denominazione del ruolo** , ad
+   essere usata come sostitutivo della denominazione del ruolo**, ad
    esempio, la competenza, D.7. “Gestione delle vendite” (Sales
    Management) non rappresenta l’intero profilo del ruolo di “Sales
    Manager”. Le competenze possono essere aggregate, a seconda delle

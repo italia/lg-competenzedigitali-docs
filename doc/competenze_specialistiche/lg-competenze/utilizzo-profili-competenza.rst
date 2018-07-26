@@ -329,7 +329,7 @@ dei seguenti temi:
    strumenti di messaggistica (quali e-mail, mailing list, forum);
 
 -  L’ambiente di sviluppo: linguaggio di programmazione Object-Oriented,
-   dialetto SQL, linguaggio di scipting, XML e tecnologie correlate,
+   dialetto SQL, linguaggio di scripting, XML e tecnologie correlate,
    principi di progettazione UML, standard di sviluppo (J2EE, .NET);
 
 -  Strumenti CASE (Computer Aided Software Engineering) e IDE
