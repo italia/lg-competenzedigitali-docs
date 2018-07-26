@@ -11,7 +11,6 @@ Linee guida per l'armonizzazione delle qualificazioni professionali, delle profe
 .. toctree::
    :maxdepth: 3
    
-   intro-consultazione.rst
    premessa.rst
    contesto-normativo.rst
    correlazioni-classificazioni.rst
