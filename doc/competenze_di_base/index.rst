@@ -6,10 +6,10 @@ Le competenze digitali di base sono le capacità di utilizzare con dimestichezza
 spirito critico le tecnologie dell’informazione per il lavoro, il tempo libero e la comunicazione. 
 Le linee di intervento definite nell’ambito delle competenze digitali di base hanno due obiettivi primari:
 
-realizzare la cittadinanza digitale: accesso e partecipazione alla società della conoscenza, con una piena
+- realizzare la cittadinanza digitale: accesso e partecipazione alla società della conoscenza, con una piena
 consapevolezza digitale;
 
-realizzare l’inclusione digitale: uguaglianza delle opportunità nell’utilizzo della rete e per lo sviluppo di una
+- realizzare l’inclusione digitale: uguaglianza delle opportunità nell’utilizzo della rete e per lo sviluppo di una
 cultura dell’innovazione e della creatività.
 
 .. toctree::
