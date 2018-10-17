@@ -8,9 +8,6 @@ Lo sviluppo di adeguate competenze specialistiche ICT è una condizione cruciale
 Attraverso azioni indirizzate a imprese e Pubblica Amministrazione, la Strategia intende:
 adottare il modello e-CF come standard di definizione delle competenze digitali e sostenere il sistema formativo nella preparazione di giovani con competenze professionalizzanti più vicine alle aspettative del mercato del lavoro.
 
-.. admonition:: **CONSULTAZIONE PUBBLICA**
-   
-   La consultazione pubblica relativa al seguente documento è chiusa.
 
 .. toctree::
    :maxdepth: 4
