@@ -7,9 +7,6 @@ Le competenze digitali si integrano strettamente con le competenze trasversali t
 
 L’e-leader è in grado di sfruttare le tecnologie digitali per definire e concretizzare progetti di innovazione digitale. La sua professionalità è il risultato di un’integrazione continua di competenze apprese nei percorsi formativi o acquisite nel percorso lavorativo.
 
-.. admonition:: **CONSULTAZIONE PUBBLICA**
-   
-   La consultazione pubblica relativa alle **Linee guida per le Competenze di e-leadership** si è conclusa in data **19 luglio 2018**.
 
 
 .. toctree::
