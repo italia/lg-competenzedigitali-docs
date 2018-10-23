@@ -5,8 +5,8 @@
 settings_project_name = "Competenze digitali"
 settings_copyright_copyleft = "Agenzia per l'Italia Digitale"
 settings_editor_name = "Agenzia per l'Italia Digitale"
-settings_doc_version = 'Bozza in consultazione'
-settings_doc_release = 'Bozza in consultazione'
+settings_doc_version = 'Versione stabile'
+settings_doc_release = 'Versione stabile'
 settings_basename =  'lg-competenzedigitali'
 settings_file_name = 'lg-competenzedigitali'
 settings_discourse_url = 'https://forum.italia.it/'
