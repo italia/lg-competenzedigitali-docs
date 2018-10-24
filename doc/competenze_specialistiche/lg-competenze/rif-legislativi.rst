@@ -1,5 +1,5 @@
 Riferimenti legislativi e norme tecniche per l’identificazione di professionalità e certificazioni
----------------------------------------------------------------------------------------------------------
+==================================================================================================
 
 L’evoluzione delle attività economiche, il trasferimento delle
 conoscenze e delle competenze all’interno del mercato unico europeo, in
@@ -27,16 +27,16 @@ Le professioni non regolamentate sono disciplinate dalla Legge 4 del 14
 gennaio 2013 e dal Decreto Legislativo 16 gennaio 2013, n. 13.
 
 Le professioni regolamentate in ordini o collegi ai sensi della
-direttiva 2005/36/CE [2]_, di cui al Decreto del Presidente Della
-Repubblica 7 agosto 2012, n. 137 [3]_, sono disciplinate nel Decreto del
+direttiva 2005/36/CE [1]_, di cui al Decreto del Presidente Della
+Repubblica 7 agosto 2012, n. 137 [2]_, sono disciplinate nel Decreto del
 Presidente Della Repubblica 5 giugno 2001, n. 328 e successive
-modificazioni e integrazioni [4]_.
+modificazioni e integrazioni [3]_.
 
 Legge 14 gennaio 2013, n. 4
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------
 
 Con l’approvazione della Legge 4 del 14 gennaio 2013 “Disposizioni in
-materia di professioni non organizzate”  [5]_ l’attività di normazione
+materia di professioni non organizzate”  [4]_ l’attività di normazione
 UNI ha assunto ulteriore rilevanza. Infatti, la legge dà piena
 applicazione al principio di sinergia tra legislazione e normazione
 tecnica. In particolare, l’articolo 6 “Autoregolamentazione volontaria”,
@@ -51,7 +51,7 @@ Per concorrere alla promozione dell’informazione nei confronti dei
 professionisti e degli utenti riguardo alla pubblicazione delle norme
 UNI relative alle attività professionali “non regolamentate” (art. 6.4
 della legge 4/2013), è costantemente aggiornato l'elenco delle norme UNI
-pubblicate ai sensi della legge 4/2013 [6]_.
+pubblicate ai sensi della legge 4/2013 [5]_.
 
 Attraverso le Legge 14 gennaio 2013, n. 4 sono state fornite le
 indicazioni per l’accreditamento sia delle associazioni professionali
@@ -63,10 +63,10 @@ certificato di conformità alla norma tecnica UNI (quale è e-CF, ad
 esempio) definita per la singola professione.
 
 Decreto Legislativo 16 gennaio 2013, n. 13
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------
 
 Un altro tassello fondamentale in questa direzione è stato poi il D.Lgs.
-16 gennaio 2013, n. 13 [7]_ perché ha inciso profondamente sulle
+16 gennaio 2013, n. 13 [6]_ perché ha inciso profondamente sulle
 dinamiche dell’incontro tra la domanda e l’offerta di lavoro,
 sull’inquadramento del personale e le mansioni del lavoratore e sulla
 libera circolazione dei lavoratori nell’ambito dell’Unione europea.
@@ -116,7 +116,7 @@ esistenti (attestati di frequenza cartacei, cui potrebbe non
 corrispondere un’adeguata modalità di verifica dell’acquisizione di
 competenze e di aggiornamento dei contenuti professionali).
 
-Con il Decreto dell’8 gennaio 2018 [8]_ il Ministero del Lavoro e delle
+Con il Decreto dell’8 gennaio 2018 [7]_ il Ministero del Lavoro e delle
 Politiche Sociali apre all’inquadramento delle professioni definite con
 certificazioni private nell’European Qualification Framework - EQF, il
 sistema di classificazione che permetterà di riconoscere a livello
@@ -148,7 +148,7 @@ strumento affidabile per le esigenze reali del sistema produttivo e darà
 concreto impulso alla libera circolazione delle professioni.
 
 Norme tecniche di riferimento
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 
 -  **UNI EN 16234-1:2016** e-Competence Framework (e-CF) - A common
    European Framework for ICT Professionals in all industry sectors -
@@ -216,4 +216,50 @@ Norme tecniche di riferimento
    dedicati all’informazione geografica (5 profili professionali):
    GeoData Analyst, Geographic Information Manager, Geographic
    Information Officer, Geographic Information Technician / Specialist
-   e Geographic Knowledge Enabler.
+   eGeographic Knowledge Enabler.
+
+.. [1]
+   DECRETO LEGISLATIVO 9 novembre 2007, n. 206 “Attuazione della
+   direttiva 2005/36/CE relativa al riconoscimento delle qualifiche
+   professionali, nonché della direttiva 2006/100/CE che adegua
+   determinate direttive sulla libera circolazione delle persone a
+   seguito dell'adesione di Bulgaria e Romania” (GU n.261 del 9-11-2007
+   - Suppl. Ordinario n. 228)
+
+.. [2]
+   DECRETO DEL PRESIDENTE DELLA REPUBBLICA 7 agosto 2012, n. 137
+   “Regolamento recante riforma degli ordinamenti professionali, a norma
+   dell'articolo 3, comma 5, del decreto legge 13 agosto 2011, n. 138,
+   convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148
+   (12G0159)” (GU n.189 del 14-8-2012).
+
+.. [3]
+   DECRETO DEL PRESIDENTE DELLA REPUBBLICA 5 giugno 2001, n. 328
+   “Modifiche ed integrazioni della disciplina dei requisiti per
+   l'ammissione all'esame di Stato e delle relative prove per
+   l'esercizio di talune professioni, nonché della disciplina dei
+   relativi ordinamenti” (GU n.190 del 17-8-2001 - Suppl. Ordinario n.
+   212).
+
+.. [4]
+   LEGGE 14 gennaio 2013, n. 4 "Disposizioni in materia di professioni
+   non organizzate." (GU Serie Generale n.22 del 26-1-2013)
+
+.. [5]
+   `http://www.uni.com/index.php?option=com_content&view=article&id=1621&Itemid=1491 <http://www.uni.com/index.php?option=com_content&view=article&id=1621&Itemid=1491>`__
+
+.. [6]
+   DECRETO LEGISLATIVO 16 gennaio 2013, n. 13 "Definizione delle norme
+   generali e dei livelli essenziali delle prestazioni per
+   l'individuazione e validazione degli apprendimenti non formali e
+   informali e degli standard minimi di servizio del sistema nazionale
+   di certificazione delle competenze, a norma dell'articolo 4, commi 58
+   e 68, della legge 28 giugno 2012, n. 92." (GU Serie Generale n.39 del
+   15-2-2013)
+
+.. [7]
+   MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI. DECRETO 8 gennaio
+   2018. Istituzione del Quadro nazionale delle qualificazioni
+   rilasciate nell'ambito del Sistema nazionale di certificazione delle
+   competenze di cui al decreto legislativo 16 gennaio 2013, n. 13. (GU
+   Serie Generale n.20 del 25-01-2018)
