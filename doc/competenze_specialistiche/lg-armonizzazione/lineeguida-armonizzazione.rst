@@ -5,7 +5,7 @@ Linee guida per l'armonizzazione delle qualificazioni professionali, delle profe
  
  .. admonition:: **CONSULTAZIONE PUBBLICA**
    
-   La consultazione pubblica relativa alle **Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei    profili in ambito ICT** è attiva dal **7** **giugno** al **6** **luglio** **2018**.
+   La consultazione pubblica relativa alle **Linee guida per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT** è stata effettuata dal **7** **giugno** al **6** **luglio** **2018**.
    
   
 .. toctree::
