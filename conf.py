@@ -15,8 +15,6 @@ settings_discourse_url = 'https://forum.italia.it/'
 
 import sys, os
 docs_italia_theme = __import__("docs-italia-theme")
-from recommonmark.transform import AutoStructify
-from recommonmark.parser import CommonMarkParser
 
 # -- RTD configuration ------------------------------------------------
 
@@ -57,10 +55,6 @@ extensions = [
 templates_path = ['_templates']
 
 # The suffix of source filenames.
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-
 source_suffix = ['.rst', '.md']
 
 # The encoding of source files.
@@ -102,16 +96,6 @@ exclude_patterns = ['.DS_Store', 'README', 'README.md', '.venv*']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
-
-# -- AutoStructify --------------------------------------------------------
-def setup(app):
-    app.add_config_value('recommonmark_config', {
-        'auto_toc_tree_section': 'Contents',
-        'enable_eval_rst': True,
-        'enable_auto_doc_ref': True
-    }, True)
-    app.add_transform(AutoStructify)
-
 
 # -- Options for HTML output ----------------------------------------------
 html_theme = 'docs-italia-theme'
